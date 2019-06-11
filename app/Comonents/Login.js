@@ -7,8 +7,7 @@ import {
   Navigator
 } from 'react-native';
 
-type Props = {};
-export default class MyApp extends Component<Props> {
+export default class Login extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
